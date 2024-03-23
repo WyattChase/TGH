@@ -1,6 +1,6 @@
 # GigHive Project!!
 
-Middle man app for venues and artist to bring them together.
+Website/App geared towards breaking the barrier between Artists and Venues to create wonderful experiences and everlasting relationships for both the careers of prospevtive new artists and the tenure of venue popularity.
 
 | Engines used  |
 | ------------- |
@@ -14,10 +14,6 @@ Middle man app for venues and artist to bring them together.
 | JavaScript    |
 | React.Js      |
 
-### Backend Populate Table Users
 
-To insert test users in the database execute the following command:
-
-```sh
-$ flask insert-test-users 5
-```
+Hosted on:
+https://gig-hive.vercel.app/
